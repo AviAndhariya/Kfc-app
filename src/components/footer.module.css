@@ -1,0 +1,57 @@
+
+.f_container {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+  padding-top: 80px;
+  background-color: #202124;
+  /* height: 450px; */
+  color: white;
+}
+
+.f_up {
+  width: 100%;
+  display: flex;
+  color: white;
+  justify-content: space-evenly;
+}
+.aa {
+  margin-left: 10px;
+  color: white;
+}
+.play {
+  margin-top: 4px;
+  width: 150px;
+  height: 52px;
+}
+.app {
+  width: 150px;
+  height: 60px;
+}
+
+.down {
+  width: 100%;
+  margin-top: 80px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.copyright {
+  width: auto;
+  text-align: center;
+  margin-left: 300px;
+}
+.left {
+   width:80%;
+   /* border: 1px solid red; */
+}
+.right{
+    width: 20%;
+  /* border: 1px solid red; */
+}
+
+.logo {
+  margin-left: 8px;
+}
